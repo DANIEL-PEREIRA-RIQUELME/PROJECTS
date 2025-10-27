@@ -2,6 +2,6 @@
 
 Below are direct links to specific project releases.
 
-* **Project:** [View Release](https://github.com/DANIEL-PEREIRA-RIQUELME/PROJECTS/releases/tag/Project)
-* **Pipeline:** [View Release](https://github.com/DANIEL-PEREIRA-RIQUELME/PROJECTS/releases/tag/Pipeline)
-* **NLMS:** [View Release](https://github.com/DANIEL-PEREIRA-RIQUELME/PROJECTS/releases/tag/NLMS)
+* **AM/FM radio signal:** [View Release](https://github.com/DANIEL-PEREIRA-RIQUELME/PROJECTS/releases/tag/Project)
+* **Pipeline for Chess Mission:** [View Release](https://github.com/DANIEL-PEREIRA-RIQUELME/PROJECTS/releases/tag/Pipeline)
+* **NLMS algorithm:** [View Release](https://github.com/DANIEL-PEREIRA-RIQUELME/PROJECTS/releases/tag/NLMS)
