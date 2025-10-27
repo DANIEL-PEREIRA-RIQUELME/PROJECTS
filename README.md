@@ -1,26 +1,7 @@
-# Daniel Pereira's tests & projects.
+# Selected Projects | Daniel Pereira Riquelme
 
-# 📂 Proyectos y Pruebas de Daniel Pereira
+Below are direct links to specific project releases.
 
-¡Bienvenido! Aquí puedes encontrar enlaces directos a algunas de mis versiones (releases) de proyectos.
-
----
-
-## 🚀 Proyecto Principal (Project)
-
-Consulta la última versión de **Project**:
-* [Ver Release: Project](https://github.com/DANIEL-PEREIRA-RIQUELME/PROJECTS/releases/tag/Project)
-
----
-
-## ⚙️ Pipeline
-
-Consulta la última versión de **Pipeline**:
-* [Ver Release: Pipeline](https://github.com/DANIEL-PEREIRA-RIQUELME/PROJECTS/releases/tag/Pipeline)
-
----
-
-## 🔊 NLMS
-
-Consulta la última versión de **NLMS**:
-* [Ver Release: NLMS](https://github.com/DANIEL-PEREIRA-RIQUELME/PROJECTS/releases/tag/NLMS)
+* **Project:** [View Release](https://github.com/DANIEL-PEREIRA-RIQUELME/PROJECTS/releases/tag/Project)
+* **Pipeline:** [View Release](https://github.com/DANIEL-PEREIRA-RIQUELME/PROJECTS/releases/tag/Pipeline)
+* **NLMS:** [View Release](https://github.com/DANIEL-PEREIRA-RIQUELME/PROJECTS/releases/tag/NLMS)
